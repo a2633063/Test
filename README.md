@@ -1,4 +1,5 @@
 # Test
-[x] 完成部署工具的设置
-[ ] 博客文章更新
-[ ] 实现抽奖功能
+- [x] send email
+- [ ] meet with my boss
+- [ ] date with my girl friend
+- [ ] write techical reporting about javascript
