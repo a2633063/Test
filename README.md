@@ -4,7 +4,7 @@
 - [ ] date with my girl friend
 - [ ] write techical reporting about javascript
 
-
+![GitHub stars](https://img.shields.io/github/stars/a2633063/zTC1.svg?style=social)
 
 [点击加群](//shang.qq.com/wpa/qunwpa?idkey=9104eabd6131d856b527ad89636fc603eb745a5d047e8b45d183165c8e607e59)
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
